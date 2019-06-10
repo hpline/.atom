@@ -1,0 +1,15 @@
+"*":
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 18
+  "exception-reporting":
+    userId: "e405d212-b1b3-4980-a80b-2b4a4c9bac01"
+  "spell-check":
+    locales: [
+      "en-US"
+    ]
+    useLocales: false
